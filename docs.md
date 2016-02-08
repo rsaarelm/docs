@@ -4,8 +4,6 @@ layout: no-anchor
 logo: black
 ---
 
-<div class="short lead">
-
 # Urbit documentation
 
 The Urbit doc is divided into three parts: [user doc](docs/user),
@@ -20,5 +18,3 @@ The most fun thing to do with Urbit is code, but the developer
 doc remains under construction.  Sorry.  We'll have more soon.
 
 <list dataSort="true" class="children"></list>
-
-</div>
